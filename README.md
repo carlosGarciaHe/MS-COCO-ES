@@ -13,4 +13,9 @@ have been used along with the main subset to carry out [1].
 
 ## Cite
 
+If you use any of these files to develop your work, please cite this project. An example of valid cite is:
+```
+García C., MS-COCO-ES, (2020), GitHub repository, https://github.com/carlosGarciaHe/MS-COCO-ES
+```
+
 ## Bibliography
